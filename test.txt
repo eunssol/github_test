@@ -1,3 +1,6 @@
 test.txt 파일 생성!
 branch modify
-master add
+test.txt 파일 생성! 
+branch_test modify
+branch_test add
+...뭐가 이상하다
